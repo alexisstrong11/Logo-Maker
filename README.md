@@ -32,7 +32,7 @@ Example SVG logo screenshot:
 
 - - - -
 ## **Tests**
-Open intergrated terminal from shapes.test.js and install jest if not done so already (npm install jest --save-dev). Once jest is installed, you can run the test with the command (npx jest).
+To run the tests, enter the command (npx jest) in the terminal. 
 - - - -
 ## **License**
 MIT License

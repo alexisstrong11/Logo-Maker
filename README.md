@@ -1,9 +1,11 @@
-# Logo-Maker
+# **Logo-Maker**
 
-## Description
-A simple logo generator that allows the user to input 3 letters for the brand, text color, shape, and shape color. This application uses Nodejs and inquirer.
+## **Description**
 
-## Table of Contents
+This SVG logo generator project allowed me to use my knowledge of JavaScript, NodeJS and inquirer to allow users to create custom logos. They are able to input three characters, pick a base color, text color and shape. 
+
+
+## **Table of Contents**
 - [Installation](#installation)
 - [Usage](#usage)
 - [Preview](#preview)
@@ -11,31 +13,52 @@ A simple logo generator that allows the user to input 3 letters for the brand, t
 - [License](#license)
 
 
-## Installation
-Requires nodejs and inquirer. Clone the repo and then run npm install to install dependencies (inquirer and jest).
-
-## Usage
-Run node index.js to start the questions. The file will be saved as logo.svg in the "examples" directory.
-
-## Preview
+## **Installation**
+Users must first install nodejs and inquirer. Then clone the repository, https://github.com/alexisstrong11/Logo-Maker, and run npm install.  Jest is also required to install. 
+- - - -
+## **Usage**
+Run node index.js to propmt the logo generator questions. Once you have finished answering all the questions, the image will be saved as logo.svg. 
+- - - -
+## **Preview**
 
 Video recording of the running application:
 
-
-
-
+https://drive.google.com/file/d/1rf5YE9WM2JnD9T7BbLOrOXatAsh6mvcA/view 
+- - - -
 Example SVG logo screenshot:
 
-![Sample](./Examples/SampleCircle.png)
+![Sample](./Examples/triangle.svg)
+![Sample](./Examples/logo.svg)
 
-
-## Tests
+- - - -
+## **Tests**
 Open intergrated terminal from shapes.test.js and install jest if not done so already (npm install jest --save-dev). Once jest is installed, you can run the test with the command (npx jest).
+- - - -
+## **License**
+MIT License
 
-## License
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+Copyright (c) 2023 Alexis Strong
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) license.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+- - - - 
+## **How to Contribute**
+[Contributor Covenant](https://www.contributor-covenant.org/)
 
 
 

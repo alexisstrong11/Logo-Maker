@@ -23,7 +23,7 @@ Run node index.js to propmt the logo generator questions. Once you have finished
 
 Video recording of the running application:
 
-https://drive.google.com/file/d/1rf5YE9WM2JnD9T7BbLOrOXatAsh6mvcA/view 
+https://drive.google.com/file/d/15lsron2_G_NtyhvskNEx7FIT7LyJHvaQ/view 
 - - - -
 Example SVG logo screenshot:
 

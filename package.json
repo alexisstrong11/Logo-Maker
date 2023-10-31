@@ -1,15 +1,29 @@
-{
-  "name": "logo-maker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.11"
-  }
+{"name": "logo-maker",
+"version": "1.0.0",
+"description": "This application prompts users with criteria to adjust color, text, and shape of a logo savign it as an SVG file",
+"main": "index.js",
+"directories": {
+  "lib": "lib",
+  "examples":"examples"
+},
+"scripts": {
+  "test": "jest"
+},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/alexisstrong11/Logo-Maker" 
+},
+"keywords": [],
+"author": "",
+"license": "MIT",
+"bugs": {
+  "url": "https://github.com/alexisstrong11/Logo-Maker"
+},
+"homepage": "https://github.com/alexisstrong11/Logo-Maker",
+"dependencies": {
+  "inquirer": "^8.2.4"
+},
+"devDependencies": {
+  "jest": "^29.5.0"
+}
 }
